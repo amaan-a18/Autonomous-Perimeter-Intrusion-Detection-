@@ -1,0 +1,7 @@
+paho-mqtt<2.0
+joblib
+numpy
+scipy
+librosa
+soundfile
+pyserial
